@@ -1,0 +1,5 @@
+- sobre mim 
+- 👋 ola,meu name is Gustavo
+-meu imail de contato e gustavo.araujo.santos23.@escola.pr.gov.br
+-  eu estou interresado em programar para empresas
+-  estou querendo aprender essa nova programacao
